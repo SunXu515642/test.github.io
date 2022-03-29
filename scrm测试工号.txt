@@ -1,0 +1,20 @@
+212815 虎牙 
+226693 张碧晨
+687018 华晨宇
+649320 吴亦凡
+553717 易烊千玺
+
+
+正式环境我的工号：773937
+
+https://test44.yky.com.cn:19999/oa/Approval/GetApprovalForm?EnterpriseCode=EN1593421380439&ApprovalFormCode=AL15499798541796352&pageType=1
+https://test44.yky.com.cn:19999/oa/ApprovalApp/GetApprovalForm?EnterpriseCode=EN1593421380439&ApprovalFormCode=AL15499798541796352&PageType=1
+
+1、要吃多久药
+2、为什么吃药了促甲状腺素反而还更低
+3、饮食禁忌
+4、日常做什么有利于恢复
+5、需不需要考虑手术
+6、情绪一直不太好，要怎么调整
+7、要不要做个甲状腺彩超  
+8、喝水了抽血有没有影响
